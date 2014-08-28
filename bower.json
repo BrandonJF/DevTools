@@ -1,6 +1,8 @@
 {
   "name": "okc-dev-tools",
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "angular-latest": "~1.2.23"
+  },
   "devDependencies": {}
 }
